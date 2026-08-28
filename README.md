@@ -22,9 +22,7 @@ Notion · Figma · Excalidraw · Trello
 ### Currently Learning
 
 - Web development
-- Software development
 - Game development
-- Data Structures & Algorithms
 - Building and shipping projects
 
 ### Connect
